@@ -13,5 +13,6 @@
 
 参考
 ===
-- https://beta.atcoder.jp/contests/apg4b
-- https://9cguide.appspot.com/
+- 「APG4b-Atcoder」https://beta.atcoder.jp/contests/apg4b
+- 「苦しんで覚えるC言語」https://9cguide.appspot.com/
+- 「まふゆちゃんの技術ブログ」https://mafuyu7se.hatenablog.com/
