@@ -73,5 +73,20 @@ gitでは現在のブランチのコピーを作成し、それを別ブラン�
 `git config --global user.name`<br>
 `git config --global user.email`<br>
 
+<<<<<<< HEAD
 # ファイル名の変更
 `git mv 変更前のファイル名 変更後のファイル名`
+=======
+参考文献
+===
+- Gitのコミットメッセージの書き方: https://qiita.com/itosho/items/9565c6ad2ffc24c09364
+- [Git]コンフリクトの治し方: https://qiita.com/hkengo/items/f47b9f50ac2dca407d12
+- 【Git】add,commit,push,merge,pull request,pull merge request: http://tweeeety.hateblo.jp/entry/2015/06/13/185817
+- git mv でファイル名を変更してみる＆その取り消し: http://tweeeety.hateblo.jp/entry/2015/06/13/185817
+- Gitで開発ブランチにmasterの内容を反映させる(git rebase): https://qiita.com/Iyutaka/items/248ebc0a0cc4ba8cb911
+- いまさら聞けないGitHubの使い方: https://techacademy.jp/magazine/6235#sec4
+- git remoteを使ってリモートリポジトリの追加と削除を行う方法: https://techacademy.jp/magazine/10268
+- Gitの設定をgit configで確認・変更: https://note.nkmk.me/git-config-setting/
+- git log --graphでログを見やすくする: https://doruby.jp/users/yokian/entries/git-log---graph%E3%81%A7%E3%83%AD%E3%82%B0%E3%82%92%E8%A6%8B%E3%82%84%E3%81%99%E3%81%8F%E3%81%99%E3%82%8B
+- typoしてpushしてしまったコミットコメントを修正してpush仕直す方法: https://qiita.com/ykawakami/items/71b462057a8d714d7382
+>>>>>>> a4dce2169e440e877c45c4519080b11333c50a6f
