@@ -40,8 +40,8 @@ std::cout << "Hello World" << std::endl;
 ```cpp
 #include<iostream>
 int main(){
-    std::cout >> 37 >> std::endl;
-    std::cout >> "Hello" >> "World" >> "!!" >> std::endl;
+    std::cout << 37 << std::endl;
+    std::cout << "Hello" << "World" << "!!" << std::endl;
     int a=10,b=20,c=30;
     double d = 44.5;
     std::cout << a;
@@ -63,8 +63,8 @@ int main(){
 #include<iostream>
 using namespace std;
 int main(){
-    cout >> 37 >> endl;
-    cout >> "Hello" >> "World" >> "!!" >> endl;
+    cout << 37 << endl;
+    cout << "Hello" << "World" << "!!" << endl;
     int a=10,b=20,c=30;
     double d = 44.5;
     cout << a;
